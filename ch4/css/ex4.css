@@ -1,0 +1,25 @@
+.font1 {
+    font - style: normal;
+    font - weight: bold;
+    font - size: 16 px;
+    line - height: 20 px;
+    font - family: "Times New Roman", "標楷體";
+    color: red;
+}
+.font2 {
+    font - style: italic;
+    font - weight: normal;
+    font - size: 1.5 em;
+    line - height: 20 px;
+    font - family: sans - serif, "新細明體";
+    color: #0000FF;
+
+}
+
+.font3{
+
+    font: italic bold 16px/20px "Times New Roman","標楷體";
+
+    color:green;
+
+}
